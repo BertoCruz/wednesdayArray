@@ -17,3 +17,12 @@ friendYears.pop();
 // (but excluding anything after) the "end", index [2] of the isDj array.
 //return: [true,true]
 isDJ.slice(0,2);
+
+
+//the convention for index positioning in the array object will primarily
+//note that the first element of an array will start at [0] (that is, index 0).
+//below will call/return on index[0] so as to show how an array starts off in 0 and not 1.
+//return: Mansour
+console.log(friends[0]);
+//
+//
